@@ -30,6 +30,6 @@ Admins can:
   - Can view policies
   - Can edit payment information
 
-Thank you for reading about this project!
-Have a wonderful day.
+Thank you for reading about this project! Have a wonderful day.
+
 Micwi
