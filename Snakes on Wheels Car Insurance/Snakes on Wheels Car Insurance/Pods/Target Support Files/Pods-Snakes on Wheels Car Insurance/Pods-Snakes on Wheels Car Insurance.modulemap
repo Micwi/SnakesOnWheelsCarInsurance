@@ -1,0 +1,6 @@
+framework module Pods_Snakes_on_Wheels_Car_Insurance {
+  umbrella header "Pods-Snakes on Wheels Car Insurance-umbrella.h"
+
+  export *
+  module * { export * }
+}
